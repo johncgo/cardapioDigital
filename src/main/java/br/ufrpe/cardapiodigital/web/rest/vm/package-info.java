@@ -1,0 +1,4 @@
+/**
+ * View Models used by Spring MVC REST controllers.
+ */
+package br.ufrpe.cardapiodigital.web.rest.vm;
